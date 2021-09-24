@@ -1,2 +1,2 @@
-# Coursera_Capstone.
-Data Science Capstone
+# Data Science project.
+Battle of the Neighbourhoods
